@@ -21,6 +21,7 @@ This project implements a **video analysis pipeline** to dynamically display met
 ---
 
 ## Demo
+![Demo Screenshot](demo/Screenshot-2025-08-20-102959.png)
 
-![Demo Screenshot](demo\Screenshot 2025-08-20 102959.png)
+
 
