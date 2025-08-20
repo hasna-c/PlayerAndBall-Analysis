@@ -1,0 +1,11 @@
+﻿ipywidgets==8.1.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.0
+pillow==10.2.0
+supervision==0.1.0
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+tqdm==4.66.1
+ultralytics==8.0.198
